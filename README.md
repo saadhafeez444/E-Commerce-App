@@ -50,8 +50,4 @@ Itâ€™s designed for **offline-first usage** with no external server dependency â
 - Dart SDK (2.17 or later)  
 - Android Studio / VS Code with Flutter plugin  
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Usman-bin-Khalid/E-Shop-App-Local-Database-.git
-   cd E-Shop
+
