@@ -119,8 +119,8 @@ The project was built to:
 
 # 📱 Application Screenshots
 
-<img src="e1.jpeg" width="250">
-<img src="e2.jpeg" width="250">
+<img src="e1.jpg" width="250">
+<img src="e2.jpg" width="250">
 
 ---
 
